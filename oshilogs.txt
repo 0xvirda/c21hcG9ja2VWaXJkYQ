@@ -1,0 +1,166 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VWaXJkYQ/c21hcG9ja2VWaXJkYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Virda =====
+[1]Virda       |08:34:21 | 11-10-2026| login OK @vrdlrst | score=860 rank=6771
+[1]Virda       |08:34:21 | 11-10-2026| serverTime=2026-10-11T08:34:21.000Z local=2026-10-11T08:34:21.449Z
+--> [1]Virda menjalankan: Claim Daily
+[1]Virda       |08:34:22 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Virda menjalankan: Auto All Tasks (3 pending)
+[1]Virda       |08:34:25 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vrdlrst/status/2109200651341519759
+[1]Virda       |08:34:25 | 11-10-2026| delay 10s...
+[1]Virda       |08:34:38 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vrdlrst/status/2109200537809145529
+[1]Virda       |08:34:38 | 11-10-2026| delay 10s...
+[1]Virda       |08:34:53 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vrdlrst/status/2109200712988969598
+[1]Virda       |08:34:53 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virda       |08:34:54 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vrdlrst/status/2109200587685370204
+--> [1]Virda menjalankan: Watch Anime
+[1]Virda       |08:34:56 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep5,ep6
+[1]Virda       |08:34:56 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Virda       |08:35:00 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Virda       |08:35:07 | 11-10-2026| watch oshi-first-journey: 7% (6.44/87.00s)
+[1]Virda       |08:35:16 | 11-10-2026| watch oshi-first-journey: 14% (12.46/87.00s)
+[1]Virda       |08:35:23 | 11-10-2026| watch oshi-first-journey: 23% (20.09/87.00s)
+[1]Virda       |08:35:32 | 11-10-2026| watch oshi-first-journey: 30% (26.27/87.00s)
+[1]Virda       |08:35:39 | 11-10-2026| watch oshi-first-journey: 39% (33.94/87.00s)
+[1]Virda       |08:35:45 | 11-10-2026| watch oshi-first-journey: 46% (40.47/87.00s)
+[1]Virda       |08:35:52 | 11-10-2026| watch oshi-first-journey: 53% (46.16/87.00s)
+[1]Virda       |08:36:00 | 11-10-2026| watch oshi-first-journey: 60% (52.36/87.00s)
+[1]Virda       |08:36:07 | 11-10-2026| watch oshi-first-journey: 68% (59.45/87.00s)
+[1]Virda       |08:36:14 | 11-10-2026| watch oshi-first-journey: 75% (65.68/87.00s)
+[1]Virda       |08:36:20 | 11-10-2026| watch oshi-first-journey: 81% (71.29/87.00s)
+[1]Virda       |08:36:26 | 11-10-2026| watch oshi-first-journey: 88% (76.96/87.00s)
+[1]Virda       |08:36:33 | 11-10-2026| watch oshi-first-journey: 95% (82.80/87.00s)
+[1]Virda       |08:36:33 | 11-10-2026| watch oshi-first-journey: COMPLETED (82.80/87.00s)
+[1]Virda       |08:36:38 | 11-10-2026| watch [2/3] farming ep5...
+[1]Virda       |08:36:39 | 11-10-2026| watch ep5: mulai dari 0 (record 111.9s diabaikan)
+[1]Virda       |08:36:43 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:36:50 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:36:57 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:03 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:10 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:18 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:25 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:32 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:39 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:45 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:37:52 | 11-10-2026| watch ep5: 28% (111.88/396.00s)
+[1]Virda       |08:38:00 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:07 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:14 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:21 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:27 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:36 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:45 | 11-10-2026| watch ep5: 28% (112.14/396.00s)
+[1]Virda       |08:38:53 | 11-10-2026| watch ep5: 29% (117.89/396.00s)
+[1]Virda       |08:39:02 | 11-10-2026| watch ep5: 31% (124.77/396.00s)
+[1]Virda       |08:39:11 | 11-10-2026| watch ep5: 33% (132.52/396.00s)
+[1]Virda       |08:39:20 | 11-10-2026| watch ep5: 35% (140.99/396.00s)
+[1]Virda       |08:39:27 | 11-10-2026| watch ep5: 37% (148.25/396.00s)
+[1]Virda       |08:39:35 | 11-10-2026| watch ep5: 39% (154.79/396.00s)
+[1]Virda       |08:39:42 | 11-10-2026| watch ep5: 40% (161.59/396.00s)
+[1]Virda       |08:39:50 | 11-10-2026| watch ep5: 42% (168.21/396.00s)
+[1]Virda       |08:39:59 | 11-10-2026| watch ep5: 44% (175.36/396.00s)
+[1]Virda       |08:40:07 | 11-10-2026| watch ep5: 46% (182.54/396.00s)
+[1]Virda       |08:40:19 | 11-10-2026| watch ep5: 47% (189.99/396.00s)
+[1]Virda       |08:40:27 | 11-10-2026| watch ep5: 50% (198.18/396.00s)
+[1]Virda       |08:40:33 | 11-10-2026| watch ep5: 51% (204.95/396.00s)
+[1]Virda       |08:40:43 | 11-10-2026| watch ep5: 53% (210.61/396.00s)
+[1]Virda       |08:40:52 | 11-10-2026| watch ep5: 55% (219.25/396.00s)
+[1]Virda       |08:40:59 | 11-10-2026| watch ep5: 57% (226.04/396.00s)
+[1]Virda       |08:41:06 | 11-10-2026| watch ep5: 58% (232.17/396.00s)
+[1]Virda       |08:41:13 | 11-10-2026| watch ep5: 60% (238.41/396.00s)
+[1]Virda       |08:41:23 | 11-10-2026| watch ep5: 61% (245.26/396.00s)
+[1]Virda       |08:41:33 | 11-10-2026| watch ep5: 64% (253.65/396.00s)
+[1]Virda       |08:41:40 | 11-10-2026| watch ep5: 66% (261.70/396.00s)
+[1]Virda       |08:41:50 | 11-10-2026| watch ep5: 67% (268.21/396.00s)
+[1]Virda       |08:41:59 | 11-10-2026| watch ep5: 69% (277.17/396.00s)
+[1]Virda       |08:42:06 | 11-10-2026| watch ep5: 71% (284.18/396.00s)
+[1]Virda       |08:42:12 | 11-10-2026| watch ep5: 73% (290.49/396.00s)
+[1]Virda       |08:42:22 | 11-10-2026| watch ep5: 74% (296.15/396.00s)
+[1]Virda       |08:42:34 | 11-10-2026| watch ep5: 77% (305.50/396.00s)
+[1]Virda       |08:42:43 | 11-10-2026| watch ep5: 79% (315.82/396.00s)
+[1]Virda       |08:42:53 | 11-10-2026| watch ep5: 81% (324.36/396.00s)
+[1]Virda       |08:43:01 | 11-10-2026| watch ep5: 84% (332.78/396.00s)
+[1]Virda       |08:43:09 | 11-10-2026| watch ep5: 85% (340.32/396.00s)
+[1]Virda       |08:43:16 | 11-10-2026| watch ep5: 87% (347.06/396.00s)
+[1]Virda       |08:43:23 | 11-10-2026| watch ep5: 89% (353.73/396.00s)
+[1]Virda       |08:43:31 | 11-10-2026| watch ep5: 90% (359.74/396.00s)
+[1]Virda       |08:43:31 | 11-10-2026| watch ep5: COMPLETED (359.74/396.00s)
+[1]Virda       |08:43:36 | 11-10-2026| watch [3/3] farming ep6...
+[1]Virda       |08:43:43 | 11-10-2026| watch ep6: 0% (0.00/404.00s)
+[1]Virda       |08:43:54 | 11-10-2026| watch ep6: 2% (9.40/404.00s)
+[1]Virda       |08:44:02 | 11-10-2026| watch ep6: 4% (16.77/404.00s)
+[1]Virda       |08:44:11 | 11-10-2026| watch ep6: 5% (23.78/404.00s)
+[1]Virda       |08:44:22 | 11-10-2026| watch ep6: 7% (32.20/404.00s)
+[1]Virda       |08:44:29 | 11-10-2026| watch ep6: 10% (41.47/404.00s)
+[1]Virda       |08:44:36 | 11-10-2026| watch ep6: 11% (48.12/404.00s)
+[1]Virda       |08:44:43 | 11-10-2026| watch ep6: 13% (54.29/404.00s)
+[1]Virda       |08:44:50 | 11-10-2026| watch ep6: 14% (60.58/404.00s)
+[1]Virda       |08:44:57 | 11-10-2026| watch ep6: 16% (66.39/404.00s)
+[1]Virda       |08:45:04 | 11-10-2026| watch ep6: 17% (72.66/404.00s)
+[1]Virda       |08:45:12 | 11-10-2026| watch ep6: 19% (79.02/404.00s)
+[1]Virda       |08:45:20 | 11-10-2026| watch ep6: 21% (86.50/404.00s)
+[1]Virda       |08:45:29 | 11-10-2026| watch ep6: 23% (93.44/404.00s)
+[1]Virda       |08:45:36 | 11-10-2026| watch ep6: 24% (100.44/404.00s)
+[1]Virda       |08:45:43 | 11-10-2026| watch ep6: 26% (106.63/404.00s)
+[1]Virda       |08:45:50 | 11-10-2026| watch ep6: 28% (113.68/404.00s)
+[1]Virda       |08:45:57 | 11-10-2026| watch ep6: 29% (119.69/404.00s)
+[1]Virda       |08:46:06 | 11-10-2026| watch ep6: 31% (126.33/404.00s)
+[1]Virda       |08:46:12 | 11-10-2026| watch ep6: 33% (133.79/404.00s)
+[1]Virda       |08:46:22 | 11-10-2026| watch ep6: 34% (139.46/404.00s)
+[1]Virda       |08:46:29 | 11-10-2026| watch ep6: 36% (146.83/404.00s)
+[1]Virda       |08:46:36 | 11-10-2026| watch ep6: 37% (153.08/404.00s)
+[1]Virda       |08:46:42 | 11-10-2026| watch ep6: 39% (158.87/404.00s)
+[1]Virda       |08:46:50 | 11-10-2026| watch ep6: 40% (164.71/404.00s)
+[1]Virda       |08:46:57 | 11-10-2026| watch ep6: 42% (171.60/404.00s)
+[1]Virda       |08:47:05 | 11-10-2026| watch ep6: 44% (178.13/404.00s)
+[1]Virda       |08:47:13 | 11-10-2026| watch ep6: 45% (185.19/404.00s)
+[1]Virda       |08:47:21 | 11-10-2026| watch ep6: 47% (192.28/404.00s)
+[1]Virda       |08:47:29 | 11-10-2026| watch ep6: 49% (199.36/404.00s)
+[1]Virda       |08:47:36 | 11-10-2026| watch ep6: 51% (206.40/404.00s)
+[1]Virda       |08:47:46 | 11-10-2026| watch ep6: 52% (213.21/404.00s)
+[1]Virda       |08:47:54 | 11-10-2026| watch ep6: 54% (221.27/404.00s)
+[1]Virda       |08:47:59 | 11-10-2026| watch ep6: heartbeat GAGAL http=503
+--> [1]Virda menjalankan: Read Article
+[1]Virda       |08:48:00 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Quiz Anime
+[1]Virda       |08:48:00 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Music Missions (realtime, bisa lama!)
+[1]Virda       |08:48:00 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virda       |08:48:00 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Claim Missions
+[1]Virda       |08:48:00 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Check Eligibility
+
+--- eligibility [1]Virda ---
+  @vrdlrst | score=860 rank=6771
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Virda menjalankan: Read Manga
+[1]Virda       |08:48:01 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Get Gift
+[1]Virda       |08:48:01 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Setup Profile
+[1]Virda       |08:48:01 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Virda menjalankan: Bind Wallet
+[1]Virda       |08:48:01 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Virda: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
