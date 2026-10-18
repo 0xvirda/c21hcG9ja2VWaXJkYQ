@@ -12,62 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virda =====
-[1]Virda       |09:04:52 | 17-10-2026| login OK @vrdlrst | score=1260 rank=5123
-[1]Virda       |09:04:52 | 17-10-2026| serverTime=2026-10-17T09:04:52.000Z local=2026-10-17T09:04:52.840Z
+[1]Virda       |08:21:57 | 18-10-2026| login OK @vrdlrst | score=1350 rank=4927
+[1]Virda       |08:21:57 | 18-10-2026| serverTime=2026-10-18T08:21:57.000Z local=2026-10-18T08:21:57.636Z
 --> [1]Virda menjalankan: Claim Daily
-[1]Virda       |09:04:53 | 17-10-2026| daily: OK +10 poin score=1270
---> [1]Virda menjalankan: Auto All Tasks (8 pending)
-[1]Virda       |09:04:55 | 17-10-2026| [1/8] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382528782883321
-[1]Virda       |09:04:55 | 17-10-2026| delay 10s...
-[1]Virda       |09:05:08 | 17-10-2026| [2/8] e5b8202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382721208185731
-[1]Virda       |09:05:08 | 17-10-2026| delay 10s...
-[1]Virda       |09:05:20 | 17-10-2026| [3/8] 0609cffc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382500072505637
-[1]Virda       |09:05:20 | 17-10-2026| delay 10s...
-[1]Virda       |09:05:32 | 17-10-2026| [4/8] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382472901883111
-[1]Virda       |09:05:32 | 17-10-2026| delay 10s...
-[1]Virda       |09:05:44 | 17-10-2026| [5/8] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382699273556066
-[1]Virda       |09:05:44 | 17-10-2026| delay 10s...
-[1]Virda       |09:05:56 | 17-10-2026| [6/8] 24fb0a1f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382808027574409
-[1]Virda       |09:05:56 | 17-10-2026| delay 10s...
-[1]Virda       |09:06:08 | 17-10-2026| [7/8] f482983d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382698945461852
-[1]Virda       |09:06:08 | 17-10-2026| delay 10s...
-[1]Virda       |09:06:20 | 17-10-2026| [8/8] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/vrdlrst/status/2111382954614951510
-[1]Virda       |09:06:20 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virda       |09:06:21 | 17-10-2026| [1/1] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/vrdlrst/status/2111382954234739077
+[1]Virda       |08:21:59 | 18-10-2026| daily: OK +10 poin score=1360
+--> [1]Virda menjalankan: Auto All Tasks (5 pending)
+[1]Virda       |08:22:03 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vrdlrst/status/2111734153376571684
+[1]Virda       |08:22:03 | 18-10-2026| delay 10s...
+[1]Virda       |08:22:16 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vrdlrst/status/2111734069565044924
+[1]Virda       |08:22:16 | 18-10-2026| delay 10s...
+[1]Virda       |08:22:29 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vrdlrst/status/2111734354166810598
+[1]Virda       |08:22:29 | 18-10-2026| delay 10s...
+[1]Virda       |08:22:44 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Virda       |08:22:44 | 18-10-2026| delay 10s...
+[1]Virda       |08:22:58 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vrdlrst/status/2111734134192970275
+[1]Virda       |08:22:58 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virda       |08:23:00 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/vrdlrst/status/2111734366903074498
 --> [1]Virda menjalankan: Watch Anime
-[1]Virda       |09:06:22 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Virda       |09:06:22 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Virda       |09:06:25 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Virda       |09:06:30 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Virda       |09:06:31 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Virda       |09:06:36 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Virda       |09:06:38 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virda       |08:23:01 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Virda       |08:23:01 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Virda       |08:23:03 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virda       |08:23:08 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Virda       |08:23:11 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virda       |08:23:16 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Virda       |08:23:19 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virda       |08:23:24 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Virda       |08:23:26 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Virda menjalankan: Read Article
-[1]Virda       |09:06:40 | 17-10-2026| news: 26/27 artikel selesai dibaca
-[1]Virda       |09:06:40 | 17-10-2026| mint eligibility: {"userId":"1927216104776036352","youtube":{"url":"https://www.youtube.com/@vrdlrst","status":"submitted","revision":"727e3079-d9dd-4ef1-9ccf-8dab61e369da","submittedAt":1791679413,"reviewedAt":1791679
-[1]Virda       |09:06:47 | 17-10-2026| news [1/1] smart-pocket-800000-battles: OK completed=27
+[1]Virda       |08:23:28 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Virda       |08:23:29 | 18-10-2026| mint eligibility: {"userId":"1927216104776036352","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vrdlrst","status":"submitted","revision":"727e3079-d9dd-4ef1-9ccf-8dab61e369da",
+[1]Virda       |08:23:29 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Virda menjalankan: Quiz Anime
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Virda       |09:06:50 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Virda       |08:23:30 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Virda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virda       |09:06:52 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Virda       |09:06:53 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Virda       |09:06:53 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virda       |09:06:53 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virda       |08:23:33 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virda       |08:23:34 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Virda       |08:23:34 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virda       |08:23:34 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virda menjalankan: Claim Missions
-[1]Virda       |09:06:53 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Virda       |09:06:53 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virda       |09:06:53 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virda       |08:23:35 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Virda       |08:23:35 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virda       |08:23:35 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virda menjalankan: Check Eligibility
 
 --- eligibility [1]Virda ---
-  @vrdlrst | score=1260 rank=5123
-  tasks    [##################--] 71/79
+  @vrdlrst | score=1350 rank=4927
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -78,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virda menjalankan: Read Manga
-[1]Virda       |09:06:57 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Virda       |08:23:41 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virda menjalankan: Get Gift
-[1]Virda       |09:06:58 | 17-10-2026| gift: 0/4 belum diterima
+[1]Virda       |08:23:42 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Virda menjalankan: Setup Profile
-[1]Virda       |09:06:58 | 17-10-2026| profile: bio="https://x.com/vrdlrst" fav=oshi rewardAt=1791812566
-[1]Virda       |09:06:58 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Virda       |08:23:43 | 18-10-2026| profile: bio="https://x.com/vrdlrst" fav=oshi rewardAt=1791812566
+[1]Virda       |08:23:43 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virda menjalankan: Bind Wallet
-[1]Virda       |09:06:59 | 17-10-2026| wallet: sudah terikat F63NfZJnia... (solana)
+[1]Virda       |08:23:43 | 18-10-2026| wallet: sudah terikat F63NfZJnia... (solana)
 
 == RINGKASAN ==
-- Virda: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Virda: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
